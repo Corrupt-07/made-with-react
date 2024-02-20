@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/made-with-react/static/css/main.b5f768d9.css",
+    "main.js": "/made-with-react/static/js/main.3dad6138.js",
+    "static/media/logo.png": "/made-with-react/static/media/logo.2a0cac33f155e4a27216.png",
+    "index.html": "/made-with-react/index.html",
+    "main.b5f768d9.css.map": "/made-with-react/static/css/main.b5f768d9.css.map",
+    "main.3dad6138.js.map": "/made-with-react/static/js/main.3dad6138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f768d9.css",
+    "static/js/main.3dad6138.js"
+  ]
+}
